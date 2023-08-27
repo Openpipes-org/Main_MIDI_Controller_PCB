@@ -1,3 +1,3 @@
-# Main_MIDI_Controller_PCB
+# Main MIDI Controller PCB
 
 ⚠️ Under construction
