@@ -13,4 +13,4 @@ Download the latest Gerber (.zip) file in the <a href="https://github.com/Openpi
 
 * Based on **Arduino-compatible Pro Micro 16 MHZ / 5 V** board (not included, to solder)
 * n. 4 ICD 10-pins male connectors
-* n. 4 Dupont (3-pins) male analog input connectors
+* n. 4 3-pins male analog input connectors
